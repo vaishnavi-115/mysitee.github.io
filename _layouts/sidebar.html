@@ -1,0 +1,16 @@
+<div class="sidebar">
+  <!-- Existing sidebar content -->
+  
+  <!-- Social Links -->
+  <ul class="social-links">
+    {% if site.social_links.instagram %}
+    <li><a href="{{ site.social_links.instagram }}" target="_blank">Instagram</a></li>
+    {% endif %}
+    {% if site.social_links.linkedin %}
+    <li><a href="{{ site.social_links.linkedin }}" target="_blank">LinkedIn</a></li>
+    {% endif %}
+    {% if site.social_links.github %}
+    <li><a href="{{ site.social_links.github }}" target="_blank">GitHub</a></li>
+    {% endif %}
+  </ul>
+</div>
