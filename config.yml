@@ -1,0 +1,28 @@
+# Basic Site Settings
+locale                   : "en-US"
+title                    : "Vaishnavi's Homepage"
+title_separator          : "-"
+name                     : &name "G.L.Vaishnavi"
+description              : &description "My academic Website"
+url                      : https://vaishnavi-115.github.io/Mysitee.github.io/ # 
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/vaishnavi-115/Mysitee.github.io.git"
+          
+author:
+  # Biographic information
+  avatar           : "1234.jpg"
+  name             : "Vaishnavi"
+  pronouns         : "she/her"  
+  bio              : "Aspiring PM"
+  location         : "IIIT-H"
+  employer         : "Accenture"
+  email            : "lakshmivaishnavi.g@students.iiit.ac.in" 
+
+  
+  # Repositories and software development
+  
+  github           : "vaishnavi-115"
+  
+  # Social media
+  linkedin         : lvaishnavi/
+  
