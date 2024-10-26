@@ -74,11 +74,12 @@ p {
 
 /* Individual section titles with custom colors */
 h2.about-title {
-    color: #8B0000; /* Dark Red */
+    color: #8B0000; 
 }
 
 h2.experience-title {
-    color: #228B22; /* Forest Green */
+  color: #00008B; 
+}
 }
 
 h2.skills-title {
